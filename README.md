@@ -27,17 +27,7 @@
   <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
 </p>
-
 ---
-
-### 🔍 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-batra&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Projects Showcase
 
 Here are a few highlights of what I’ve worked on:
