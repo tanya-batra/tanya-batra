@@ -56,6 +56,4 @@ I'm always open to collaborating on interesting projects, learning from others, 
 - 📧 Email: batraofficial.02@gmail.com
 - 🌍 Location: Punjab, India
 
----
-
 > “Building meaningful digital experiences, one line of code at a time.” 💻
